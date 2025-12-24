@@ -1,0 +1,47 @@
+
+Week 8 Assignment – CORD-19 Metadata Analysis
+
+This project is for Week 8 Python assignment. It involves loading the CORD-19 metadata dataset, doing some basic analysis, and creating a simple Streamlit app.
+
+Requirements
+
+Python 3.7+
+
+pandas
+
+matplotlib
+
+seaborn
+
+wordcloud
+
+streamlit
+
+Install with:
+
+pip install -r requirements.txt
+
+How to Run
+
+Clone the repo:
+
+
+Navigate to the folder:
+
+cd python-week-8-assignment
+
+Run the Streamlit app:
+
+streamlit run app.py
+
+Features
+
+Loads and explores the metadata dataset
+
+Cleans missing values
+
+Visualizes publications by year and journal
+
+Generates a word cloud from titles
+
+Interactive dashboard with Streamlit
